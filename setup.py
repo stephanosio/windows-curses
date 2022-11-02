@@ -59,7 +59,7 @@ Please tell me if the `resize_term(0, 0)` hackery causes you any trouble.
 """[1:-1]
 
 setup(
-    name='windows-curses',
+    name='example_package_stephanosio',
     version='2.3.0',
     description="Support for the standard curses module on Windows",
     long_description=LONG_DESCRIPTION,
